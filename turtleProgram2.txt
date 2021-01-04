@@ -1,0 +1,6 @@
+#s = 10
+#a = 4
+repeat #a
+move #s
+turn 90
+end

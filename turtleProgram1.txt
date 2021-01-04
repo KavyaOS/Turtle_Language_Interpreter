@@ -1,0 +1,9 @@
+#side = 10
+#side1 = 15
+move #side1
+turn 90
+move #side1
+turn 90
+move #side1
+turn 90
+move #side1
